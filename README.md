@@ -1,5 +1,5 @@
 # GaitAngle-using-SensorFusion-IMU 
-This Program will calculate the Gait Angle of knee flexion from the subject using sensor fusion inertial measurement unit using accelerometer and gyroscope from smartphone.
+This Program will calculate the Gait Angle of knee flexion from the subject using sensor fusion inertial measurement unit by utilizing accelerometer and gyroscope from smartphone.
 
 # How it works
 This program calculate raw data from the accelerometer and gyroscope sensor using knee flexion angular velocity formula.
